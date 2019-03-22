@@ -1,0 +1,8 @@
+div {
+    height: 128pt;
+    width: 128pt;
+    border-style: solid;
+    border-radius: 50%;
+    background-image: url(../img/photo.jpg);
+    image-rendering: auto;
+}
